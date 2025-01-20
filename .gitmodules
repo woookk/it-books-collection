@@ -1,0 +1,3 @@
+[submodule "tidy-first"]
+	path = tidy-first
+	url = https://github.com/woookk/tidy-first.git
